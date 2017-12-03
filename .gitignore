@@ -166,3 +166,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/node,maven,windows,intellij
+
+# We dont need .iml files
+*.iml
